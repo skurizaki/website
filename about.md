@@ -1,7 +1,25 @@
 ---
 layout: page
-title: 概要
+title: 研究室の紹介
 permalink: /about/
 ---
+# 概要
+担当教員・栗崎は国際政治学における理論研究（ゲーム理論分析）ないし実証研究（計量分析）を行うことを得意としていますが、広義の政治学の範疇で、政策問題から課題や関心を説き起こし、モデル分析やデータ科学の手法を駆使する研究に関心がある方を歓迎します。また、一定のスキルを持つゼミ生にはリサーチアシスタントないしインターンとして、担当教員が学外で行う事業案件に参画する機会の提供を模索します。なお、データ科学者との共同研究では、日本人工知能学会から全国大会優秀賞を2年連続受賞し、特許も複数取得（申請受理・権利化済みを含む）しています。
 
-Shuhei Kurizaki (PhD, UCLA) is an associate professor in the School of Political Science and Economics at Waseda University. Before joining the faculty at Waseda in 2013, he was a pre-doctoral fellow at Harvard University’s Olin Institute for Strategic Studies (2005-2006) and assistant professor in the department of political science at Texas A&M University (2006-2013). His work has appeared in American Political Science Review and International Organization among other outlets. His current research (1) develops and tests formal models to explain how and when diplomacy works in international conflict, (2) utilizes big-data to examine political impacts and consequences of the shifting structure of the globalized networks of production and capital flows, (3) assesses the strategic consequences of Japan’s changing defense policy and its implications for national security, and (4) develops game theoretic models for a new nuclear strategy. Professor Kurizaki is the winner of the Carl Beck Award, given by the International Studies Association in 2005, the Dina Zinnes Award, given by the Scientific Study of International Processes (SSIP) Section of the International Studies Association in 2006, the Miyake Ichiro Award in 2008, Waseda Teaching Award in 2014, and e-Teaching Award at Waseda University in 2017. His courses explore the causes of war and peace, the history of diplomacy, and formal political theory.
+# 内容
+広く「実証的な政治学研究」を行う
+　- 教員によるテーマは設定せず、学生プロジェクト先駆型
+  - 国際政治の理論・実証研究 ∩ ゲーム理論 ∪ データ科学を基本としますが、比較政治、国際政治経済など広い範囲で研究テーマを設定することは可能です。
+
+# 卒業生の進路
+　## 就職
+ - コンサルがおよそ過半数
+ - **G**AM**A**M：GとA
+ - 報道：記者、ディレクター、データサイエンス
+ - その他：財務省、国内・外銀ともに投資がメイン
+ - 研究職：東京理科大学・助教、防衛研究所・研究員
+ - スタートアップ創業（うち一人はSaaS企業CEOとして成長中）
+　## 進学
+大学院進学者の半数以上は、政治学以外のデータ科学、統計、経済関連へのプログラムに進学（過去8年の実績）。
+　### 修士課程
+ - 早稲田大学政治学研究科・経済学研究科
