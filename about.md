@@ -23,6 +23,7 @@ permalink: /about/
 進学
 
 大学院進学者の半数以上は、政治学以外のデータ科学、統計、経済関連へのプログラムに進学（過去8年の実績）。
+
 【修士課程】
  - 早稲田大学大学院 政治学研究科・経済学研究科
  - 東京大学大学院 経済学研究科
@@ -32,6 +33,7 @@ permalink: /about/
  - The George Washington University
  - University of Warwick
  - Katholieke Universiteit Leuven (KU Leuven)
+
 【博士課程（Ph.D.）】
  - Harvard University
  - London School of Economics (LSE)
