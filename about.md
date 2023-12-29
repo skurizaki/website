@@ -12,14 +12,30 @@ permalink: /about/
   - 国際政治の理論・実証研究 ∩ ゲーム理論 ∪ データ科学を基本としますが、比較政治、国際政治経済など広い範囲で研究テーマを設定することは可能です。
 
 # 卒業生の進路
-　## 就職
+就職
  - コンサルがおよそ過半数
  - **G**AM**A**M：GとA
  - 報道：記者、ディレクター、データサイエンス
  - その他：財務省、国内・外銀ともに投資がメイン
  - 研究職：東京理科大学・助教、防衛研究所・研究員
  - スタートアップ創業（うち一人はSaaS企業CEOとして成長中）
-　## 進学
+
+進学
 大学院進学者の半数以上は、政治学以外のデータ科学、統計、経済関連へのプログラムに進学（過去8年の実績）。
-　### 修士課程
- - 早稲田大学政治学研究科・経済学研究科
+【修士課程】
+ - 早稲田大学大学院 政治学研究科・経済学研究科
+ - 東京大学大学院 経済学研究科
+ - London School of Economics (LSE)
+ - University of Michigan
+ - University of Chicago
+ - The George Washington University
+ - University of Warwick
+ - Katholieke Universiteit Leuven (KU Leuven)
+【博士課程（Ph.D.）】
+ - Harvard University
+ - London School of Economics (LSE)
+ - University of California Los Angeles (UCLA)
+ - University of California San Diego (UCSD)
+
+
+2024年度開講ゼミシラバスにつきましては、詳しくは[こちら](https://www.f.waseda.jp/kurizaki/seminar-application24.html)をご覧ください。
