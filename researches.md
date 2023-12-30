@@ -14,7 +14,7 @@ permalink: /researches/
 
 > [**グローバルな株所有ネットワークでのESG投資とヴァイス（悪徳）企業との繋がり**](http://dx.doi.org/10.11517/pjsai.jsai2021.0_4h2gs11c05)<br>水野 貴之, 土井 翔平, 土屋 貴裕, 栗崎 周平<br>人工知能学会全国大会論文集   JSAI2021   4H2GS11c05 - 4H2GS11c05  2021年
 
-> [**The Power of Corporate Control in the Global Ownership Network**](http://dx.doi.org/10.1371/journal.pone.0237862)br>Takayuki Mizuno, Shohei Doi, Shuhei Kurizaki<br>PLoS One   15 ( 8 ) e0237862  2020年09月  [査読有り]  [招待有り]
+> [**The Power of Corporate Control in the Global Ownership Network**](http://dx.doi.org/10.1371/journal.pone.0237862)<br>Takayuki Mizuno, Shohei Doi, Shuhei Kurizaki<br>PLoS One   15 ( 8 ) e0237862  2020年09月  [査読有り]  [招待有り]
 
 > [**株式ネットワークにおける香港問題の波及効果**](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_2E5OS1b03/_article/-char/ja/)<br>土井 翔平, 水野 貴之, 栗崎 周平<br>人工知能学会全国大会論文集   JSAI2020   2E5OS1b03 - 2E5OS1b03  2020年
 
