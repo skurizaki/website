@@ -5,8 +5,12 @@
 - title: Researches
   url: /researches/
 - title: Lectures
+- title: Data
+  url: /data/
   url: /lectures/
 - title: Archive
   url: /archive/
 - title: Contact
   url: /contact/
+  - title: English
+  url: https://www.waseda.jp/fpse/faculty/2019/08/11/373/
