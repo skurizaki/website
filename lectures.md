@@ -20,5 +20,6 @@ permalink: /lectures/
 **M1**
  - 国際政治専門研究セミナーＡ・Ｂ
  - 国際政治
+ - Reading Seminar in International Relations
 
 
