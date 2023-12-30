@@ -43,9 +43,7 @@ permalink: /researches/
 
 > **Dina Zinnes Graduate Student Paper Award**<br>2006年03月   Scientific Study of International Processes (SSIP) Section of International Studies Association (ISA)  <br>受賞者： Shuhei Kurizaki
 
-> **Carl Beck Award**<br>2005年03月<br>International Studies Association (ISA)  
-
-受賞者： Shuhei Kurizaki
+> **Carl Beck Award**<br>2005年03月  International Studies Association (ISA)  <br>受賞者： Shuhei Kurizaki
 
 # 産業財産権
 > [**影響力に関する媒介性評価システム**](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303003662903625)<br>水野貴之, 土井翔平, 栗崎周平<br>特許権
