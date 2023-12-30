@@ -3,29 +3,53 @@ layout: page
 title: 連絡先
 permalink: /contact/
 ---
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact Form</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+/* styles.css */
 
-  <div class="contact-form-container">
-    <form action="process-form.php" method="post">
-      <label for="name">Name:</label>
-      <input type="text" id="name" name="name" required>
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
 
-      <label for="email">Email:</label>
-      <input type="email" id="email" name="email" required>
+.contact-form-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 
-      <label for="message">Message:</label>
-      <textarea id="message" name="message" rows="4" required></textarea>
+form {
+  display: grid;
+  gap: 10px;
+}
 
-      <button type="submit">Submit</button>
-    </form>
-  </div>
+label {
+  font-weight: bold;
+}
 
-</body>
-</html>
+input,
+textarea {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
