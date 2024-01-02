@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 第5回WASEDA e-Teaching Award大賞受賞
-author: Shuhei Kurizaki
-categories: [Example]
+tags: [早稲田]
 image: https://www.waseda.jp/inst/ches/assets/uploads/2017/05/DSC0447-610x407.jpg
 last_modified_at: 2017-05-27 13:24:11 +0800
 ---
