@@ -4,13 +4,9 @@
   url: /about/
 - title: Research
   url: /research/
-- title: Lectures
-  url: /lectures/
 - title: Data
   url: /data/<!-- ここにHarvard Dataverseのアカウントurlをペーストしてください。-->
-- title: Archive
-  url: /archive/
 - title: Contact
   url: /contact/
 - title: English
-  url: https://tokunagamuy.github.io/RAwebsite.en/
+  url: https://skurizaki.github.io/website/
